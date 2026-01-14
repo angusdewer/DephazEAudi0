@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "DephazEAudi0 — Φ³-based Topological Audio Reconstruction"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: Dewer
+    given-names: Angus
+doi: 10.5281/zenodo.18244991
+repository-code: "https://github.com/angusdewer/DephazEAudi0"
+license: "CC BY-NC-SA 4.0 (see LICENSE.md for additional terms)"
+keywords:
+  - audio processing
+  - topological signal processing
+  - geometric reconstruction
+  - real-time audio
+  - nonlinear dynamics
