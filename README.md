@@ -155,4 +155,11 @@ Python and Rust implementations share the same mathematical formulation
 minor floating-point differences may occur across platforms
 
 the focus of the project is the observable behavior of the system
+## Citation
+
+If you use or reference this work, please cite:
+
+**Angus Dewer (2026)**  
+*DephazEAudi0 — Φ³-based Topological Audio Reconstruction*  
+Zenodo. https://doi.org/10.5281/zenodo.18244991
 
