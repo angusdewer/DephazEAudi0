@@ -2,7 +2,8 @@
 
 Copyright © 1992–2025 Angus Dewer  
 All rights reserved.
-
+This repository contains a research / reference implementation.
+For real-time DAW use, see the official VST version.
 This work is **NOT public domain**.
 
 ---
@@ -107,3 +108,4 @@ This license exists to ensure that:
 - the work remains accessible for study and understanding,
 - the core ideas cannot be monopolized by third parties,
 - commercial value remains under the control of the author.
+
