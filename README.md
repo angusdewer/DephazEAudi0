@@ -127,15 +127,6 @@ Features:
 
 - real-time operation via virtual audio cable
 
-### Rust version
-- precompiled executable (.exe)
-
-- no Rust toolchain required
-
-- selectable input and output devices
-
-- real-time operation via virtual audio cable
-
 ### Audio routing example
  
 - DAW / Audio source
